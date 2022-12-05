@@ -11,6 +11,6 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-Deep dive Flutter modularization
+**Deep dive Flutter modularization**
 
 This sample project shows the benefit of feature-based modularization on Flutter
